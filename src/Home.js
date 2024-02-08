@@ -8,7 +8,7 @@ const Home = () => {
       id: 1,
     },
     {
-      title: "10 tips to build a React components",
+      title: "10 tips to build React components",
       body: "Lorem ipsum, dolor sit amet, consectetur adipisicing elit. Libero dolorum amet quam tenetur doloribus itaque quas praesentium. Voluptas, quas dolores.",
       author: "andrew",
       id: 2,
